@@ -1,7 +1,7 @@
 {
   "id": "companion-bridge-free",
-  "title": "Companion Bridge Free",
-  "description": "<p>A module that provides a bridge for communication between the Foundry VTT client and the mobile application VTT Companion (available for iOS and Android). It allows for the synchronization of actor data, item data, and other relevant information between the two platforms. This is the free version. The premium version of the module also includes additional features such as interaction and update from the app to Foundry (e.g. updating HP, using items, casting spells, etc.). More info can be found on our <a href=\"https://foundrycompanionapp.github.io/fca-wiki\">wiki</a> or our <a href=\"https://www.patreon.com/cw/VttCompanionApp\">Patreon</a>.</p>",
+  "title": "Companion Bridge Free D&D5e - VTT Companion",
+  "description": "<p>A module that provides a bridge for communication between the Foundry VTT client and the mobile application VTT Companion (available for iOS and Android). It allows for the synchronization of actor data, item data, and other relevant information between the two platforms. This is the free version. The premium version of the module also includes additional features such as interaction and update from the app to Foundry (e.g. updating HP, using items, casting spells, etc.). More info can be found on our <a href=\"https://vttcompanion.github.io/fca-wiki\">wiki</a> or our <a href=\"https://www.patreon.com/cw/VttCompanionApp\">Patreon</a>.</p>",
   "authors": [
     {
       "name": "Netfir",
@@ -11,9 +11,7 @@
       "flags": {}
     }
   ],
-  "manifest": "https://github.com/Alexandre-Pe/companion-bridge-free/releases/latest/download/module.json",
-  "download": "https://github.com/Alexandre-Pe/companion-bridge-free/releases/download/1.0.4/module.zip",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "compatibility": {
     "minimum": "13",
     "verified": "13",
@@ -39,6 +37,8 @@
       }
     ]
   },
-  "url": "https://foundrycompanionapp.github.io/fca-wiki/",
-  "flags": {}
+  "url": "https://vttcompanion.github.io/fca-wiki/",
+  "flags": {},
+  "manifest": "https://github.com/Alexandre-Pe/companion-bridge-free/releases/latest/download/module.json",
+  "download": "https://github.com/Alexandre-Pe/companion-bridge-free/releases/download/v1.0.6/module.zip"
 }
