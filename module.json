@@ -51,6 +51,6 @@
   "url": "https://vttcompanion.github.io/fca-wiki/",
   "bugs": "https://www.patreon.com/posts/155601410",
   "manifest": "https://github.com/vttcompanion/companion-bridge-free/releases/latest/download/module.json",
-  "download": "https://github.com/vttcompanion/companion-bridge-free/releases/download/v1.1.0/module.zip",
+  "download": "https://github.com/vttcompanion/companion-bridge-free/releases/download/1.1.0/module.zip",
   "flags": {}
 }
